@@ -25,6 +25,8 @@ My work bridges biology and computation:
 - 🔬 [ParallelForensicLR](https://github.com/sbiagini0/ParallelForensicLR): Parallel likelihood ratio computations for forensic genetics.  
 - 🧩 [GeneMapper2Familias](https://github.com/sbiagini0/GeneMapper2Familias): STR to Familias automation pipeline.
 
+- ⏳ [PedigreeOverTime](https://github.com/sbiagini0/PedigreeOverTime): Chronological pedigree evolution with parallel simulations.
+  
 ---
 
 ## ⚙️ Tech & Tools  
