@@ -22,10 +22,9 @@ My work bridges biology and computation:
 
 ## 📂 Featured Repositories  
 
-- 🔬 [ParallelForensicLR](https://github.com/sbiagini0/ParallelForensicLR): Parallel likelihood ratio computations for forensic genetics.  
-- 🧩 [GeneMapper2Familias](https://github.com/sbiagini0/GeneMapper2Familias): STR to Familias automation pipeline.
-
-- ⏳ [PedigreeOverTime](https://github.com/sbiagini0/PedigreeOverTime): Chronological pedigree evolution with parallel simulations.
+- [ParallelForensicLR](https://github.com/sbiagini0/ParallelForensicLR): Parallel likelihood ratio computations for forensic genetics.  
+- [GeneMapper2Familias](https://github.com/sbiagini0/GeneMapper2Familias): STR to Familias automation pipeline.
+- [PedigreeOverTime](https://github.com/sbiagini0/PedigreeOverTime): Chronological pedigree evolution with parallel simulations.
   
 ---
 
@@ -37,8 +36,6 @@ My work bridges biology and computation:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) &nbsp;&nbsp;&nbsp;
 
----
-
 ### 📊 Data Science & Analysis  
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) &nbsp;&nbsp;&nbsp;
@@ -48,8 +45,6 @@ My work bridges biology and computation:
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white) &nbsp;&nbsp;&nbsp;
 ![Plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) &nbsp;&nbsp;&nbsp;
 
----
-
 ### 📂 Reproducibility & Collaboration  
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) &nbsp;&nbsp;&nbsp;
@@ -57,8 +52,6 @@ My work bridges biology and computation:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) &nbsp;&nbsp;&nbsp;
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white) &nbsp;&nbsp;&nbsp;
 ![RMarkdown](https://img.shields.io/badge/RMarkdown-2C3E50?style=for-the-badge&logo=r&logoColor=white) &nbsp;&nbsp;&nbsp;
-
----
 
 ### ☁️ Systems & Platforms  
 
